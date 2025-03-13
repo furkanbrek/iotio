@@ -1,0 +1,8 @@
+tensorflow~=2.18.0
+transformers
+torch
+datasets
+opencv-python
+keras
+numpy
+os
